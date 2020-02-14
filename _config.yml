@@ -9,7 +9,7 @@
 title:       Zach Tatro | Talking To Myself
 email:       ''
 description: ''
-baseurl:     '' # The subpath of your site, e.g. /blog
+baseurl:     '/blog/' # The subpath of your site, e.g. /blog
 url:         '' # The base hostname & protocol for your site
 twitter:     ''
 github:      ''
