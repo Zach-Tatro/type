@@ -7,12 +7,12 @@
 
 # Site settings
 title:       Zach Tatro | Talking To Myself
-email:       ''
+email:       'Zach.Tatro@outlook.com'
 description: ''
 baseurl:     '/blog' # The subpath of your site, e.g. /blog
 url:         '' # The base hostname & protocol for your site
 twitter:     ''
-github:      ''
+github:      'https://github.com/Zach-Tatro'
 instagram:   ''
 facebook:    ''
 
